@@ -406,7 +406,7 @@ const BROWSER_SCRIPT = () => {
         'victorious-square-662213.puter.site': '9578742',
         'relaxed-crab-648834.puter.site': '9578760',
         'smart-mountain-937000.puter.site': '9578779',
-        'smart-mountain-937000.puter.site': '9578787',
+        'avid-mountain-909877.puter.site': '9578787',
         'jolly-road-702644.puter.site': '9578798',
         'colorful-tv-258268.puter.site ': '9578806',
       };
